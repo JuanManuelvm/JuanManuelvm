@@ -1,4 +1,4 @@
-## Hi there 👋
+## Soy estudiante de Tecnología en Electrónica e Ingeniería en Sistemas, apasionado por la programación y el desarrollo de proyectos innovadores. Con experiencia como profesor de robótica (Arduino, ESP32), he guiado a estudiantes en la creación de soluciones prácticas, combinando hardware y software. Además, he impartido formación en herramientas ofimáticas.
 
 <!--
 **JuanManuelvm/JuanManuelvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
